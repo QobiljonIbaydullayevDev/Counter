@@ -1,0 +1,34 @@
+.frame{
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+    border-radius: 99px;
+}
+
+.result{
+    font-size: 10rem;
+    position: relative;
+    left: 40%;
+}
+
+.btn-add{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 9999px;
+    border: 5px solid black;
+    left: -7rem;
+    top: 10rem;
+    font-size: 5rem;
+}
+
+.btn-sub{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border-radius: 9999px;
+    border: 5px solid black;
+    left: -1rem;
+    top: 10rem;  
+    font-size: 5rem;
+}
